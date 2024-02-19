@@ -1,14 +1,15 @@
 
 
 import './App.css'
-import MainPage from './MainPage/MainPage'
+
+import SwitchColor from './SwitchColor/SwitchColor'
 
 function App() {
 
 
   return (
     <>
-     <MainPage/>
+     <SwitchColor/>
        
     </>
   )
